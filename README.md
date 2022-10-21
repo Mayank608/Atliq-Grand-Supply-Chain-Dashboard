@@ -18,3 +18,6 @@ Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart 
 1. Create the metrics according to the metrics list.
 2. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
 3. Create relevant insights that are not provided in the metric list/stakeholder meeting.
+
+![supply_chain_1](https://user-images.githubusercontent.com/111105837/197150654-1a077b2b-115d-4cd2-aac2-199aaa4bb08d.PNG)
+
